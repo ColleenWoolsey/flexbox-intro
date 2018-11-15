@@ -1,0 +1,20 @@
+Header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    }
+
+article {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;   
+}    
+   
+    
+section {
+    border: 1px dashed red;
+    margin: 5px;
+    flex-basis: 30%;
+}
+
